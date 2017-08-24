@@ -1,0 +1,10 @@
+TARGET_ARCH := arm
+TARGET_ARCH_VARIANT := armv7-a
+TARGET_ARCH_VARIANT_CPU := marvell-pj4
+TARGET_NO_KERNEL := true
+TARGET_CPU_ABI := armeabi-v7a
+TARGET_CPU_ABI2 := armeabi
+BOARD_EGL_CFG := device/samsung/xcover/egl.cfg
+TARGET_PREBUILT_KERNEL := device/samsung/xcover/zImage
+BOARD_KERNEL_BASE := 0x80000000
+BOARD_KERNEL_PAGESIZE := 4096
