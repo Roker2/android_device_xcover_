@@ -1,7 +1,7 @@
 TARGET_ARCH := arm
 TARGET_ARCH_VARIANT := armv7-a
 TARGET_ARCH_VARIANT_CPU := marvell-pj4
-TARGET_NO_KERNEL := true
+TARGET_NO_KERNEL := false
 TARGET_CPU_ABI := armeabi-v7a
 TARGET_CPU_ABI2 := armeabi
 BOARD_EGL_CFG := device/samsung/xcover/egl.cfg
