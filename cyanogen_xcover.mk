@@ -1,3 +1,5 @@
+# In vendor/cyanogen/products
+
 # Inherit AOSP device configuration for beni
 $(call inherit-product, device/samsung/xcover/full_xcover.mk)
 
