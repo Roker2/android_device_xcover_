@@ -31,4 +31,4 @@ PRODUCT_COPY_FILES += \
 	device/samsung/xcover/ramdisk/sbin/fota_logo.png:root/sbin/fota_logo.png \
 	device/samsung/xcover/ramdisk/sbin/ua_launcher:root/sbin/ua_launcher \
 	device/samsung/xcover/ramdisk/sbin/ueventd:root/sbin/ueventd \
-	device/samsung/xcover/ramdisk/res/encryption.conftab:root/res/encryption.conftab \
+	device/samsung/xcover/ramdisk/res/encryption.conftab:root/res/encryption.conftab 
