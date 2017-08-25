@@ -26,3 +26,9 @@ PRODUCT_COPY_FILES += \
 	device/samsung/xcover/ramdisk/ueventd.goldfish.rc:root/ueventd.goldfish.rc \
 	device/samsung/xcover/ramdisk/ueventd.pxa968.rc:root/ueventd.pxa968.rc \
 	device/samsung/xcover/ramdisk/ueventd.rc:root/ueventd.rc \
+	device/samsung/xcover/ramdisk/ALKON.rle:root/ALKON.rle \
+	device/samsung/xcover/ramdisk/sbin/adbd:root/sbin/adbd \
+	device/samsung/xcover/ramdisk/sbin/fota_logo.png:root/sbin/fota_logo.png \
+	device/samsung/xcover/ramdisk/sbin/ua_launcher:root/sbin/ua_launcher \
+	device/samsung/xcover/ramdisk/sbin/ueventd:root/sbin/ueventd \
+	device/samsung/xcover/ramdisk/res/encryption.conftab:root/res/encryption.conftab \
